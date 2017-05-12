@@ -1,7 +1,7 @@
 {
 	"class" : {
 		"defaultItems" : "J.J. 7/27/2015 17:37",
-		"initializeItems" : "J.J. 7/27/2015 17:29",
+		"initializeItems" : "DS 5/12/2017 22:14",
 		"newIn:" : "J.J. 7/30/2015 22:00",
 		"reset" : "J.J. 7/27/2015 17:29",
 		"searchDelimeter" : "J.J. 7/28/2015 17:11" },
@@ -11,7 +11,7 @@
 		"controller" : "J.J. 7/30/2015 22:01",
 		"controller:" : "J.J. 7/30/2015 22:02",
 		"createCategoriesFor:" : "JS 6/21/2016 23:34",
-		"defaultItems" : "J.J. 7/30/2015 22:01",
+		"defaultItems" : "DS 5/12/2017 22:15",
 		"evaluateSearchFor:" : "td 6/8/2016 20:59",
 		"filters" : "J.J. 12/13/2015 23:47",
 		"initialize" : "J.J. 7/30/2015 16:38",

@@ -1,0 +1,14 @@
+{
+	"category" : "Algernon",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "ALGFullTextSearchItem",
+	"pools" : [
+		 ],
+	"super" : "ALGItem",
+	"type" : "normal" }
