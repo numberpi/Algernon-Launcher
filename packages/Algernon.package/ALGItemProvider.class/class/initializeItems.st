@@ -8,6 +8,6 @@ initializeItems
 		addAll: ALGMorphType algertemList;
 		addAll: ALGWorldMenuMorphType algertemList;
 		addAll: ALGPackageType algertemList;
-		addAll: ALGSettingsType algertemList;
+		addAll: ALGPreferenceType algertemList;
 		addAll: ALGTestType algertemList;
 		yourself

@@ -2,6 +2,6 @@ testing
 testSettingsNotEmpty
 
 	| settings |
-	settings := ALGSettingsType algertemList.
+	settings := ALGPreferenceType algertemList.
 	self deny: settings isEmpty
 	

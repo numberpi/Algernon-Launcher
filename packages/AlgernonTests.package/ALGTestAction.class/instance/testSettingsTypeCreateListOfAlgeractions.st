@@ -1,4 +1,4 @@
 testing
 testSettingsTypeCreateListOfAlgeractions
 	
-	self assert: ALGSettingsType new createListOfAlgeractions notEmpty
+	self assert: ALGPreferenceType new createListOfAlgeractions notEmpty

@@ -7,7 +7,7 @@
 	"commentStamp" : "J.J. 7/31/2015 19:51",
 	"instvars" : [
 		 ],
-	"name" : "ALGSettingsType",
+	"name" : "ALGPreferenceType",
 	"pools" : [
 		 ],
 	"super" : "ALGType",

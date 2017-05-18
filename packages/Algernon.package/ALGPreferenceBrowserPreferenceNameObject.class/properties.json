@@ -1,0 +1,14 @@
+{
+	"category" : "Algernon",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"preferenceName" ],
+	"name" : "ALGPreferenceBrowserPreferenceNameObject",
+	"pools" : [
+		 ],
+	"super" : "ALGPreferenceBrowserCategoryObject",
+	"type" : "normal" }

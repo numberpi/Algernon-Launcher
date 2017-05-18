@@ -12,7 +12,7 @@ initializeFileMapping
 		#ALGWorldMenuMorphType -> (self worldMenuIcon).
 		#ALGPackageType -> (self packageIcon).
 		#ALGRepositoryType -> (self repositoryIcon).
-		#ALGSettingsType -> (self settingsIcon).
+		#ALGPreferenceType -> (self settingsIcon).
 		#ALGTestType -> (self testIcon).
 		#HasChildren -> (self arrowRightIcon).
 		#TopResult -> (self starIcon).
